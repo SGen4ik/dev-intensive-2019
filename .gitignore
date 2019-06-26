@@ -1,22 +1,3 @@
-# Built application files
-build/
-
-# Files for the ART/Dalvik VM
-*.dex
-
-# External native build folder generated in Android Studio 2.2 and later
-.externalNativeBuild
-
-# Gradle files
-.gradle/
-
-# Signing files
-.signing/
-
-# User-specific configurations
-*.iml
-
-# Local configuration file (sdk path, etc)
 local.properties
 
 # Log Files
@@ -38,3 +19,4 @@ google-services.json
 
 # Version control
 vcs.xml
+
